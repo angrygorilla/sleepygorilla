@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sleepygorilla/static/css/main.19393e92.chunk.css",
+    "main.js": "/sleepygorilla/static/js/main.7ea59365.chunk.js",
+    "main.js.map": "/sleepygorilla/static/js/main.7ea59365.chunk.js.map",
+    "runtime~main.js": "/sleepygorilla/static/js/runtime~main.89ebf985.js",
+    "runtime~main.js.map": "/sleepygorilla/static/js/runtime~main.89ebf985.js.map",
+    "static/js/2.b41502e9.chunk.js": "/sleepygorilla/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/sleepygorilla/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/sleepygorilla/index.html",
+    "precache-manifest.5faa1a75ea24d9bda174dd239e7d021d.js": "/sleepygorilla/precache-manifest.5faa1a75ea24d9bda174dd239e7d021d.js",
+    "service-worker.js": "/sleepygorilla/service-worker.js",
+    "static/css/main.19393e92.chunk.css.map": "/sleepygorilla/static/css/main.19393e92.chunk.css.map",
+    "static/media/logo.svg": "/sleepygorilla/static/media/logo.5d5d9eef.svg"
+  }
+}
