@@ -1,7 +1,7 @@
 {
   "name": "sleepygorilla",
   "version": "0.1.0",
-  "homepage": "http://angrygorilla.github.io/sleepygorilla",
+  "homepage": "http://sleepygorilla.com",
   "private": true,
   "dependencies": {
     "@types/jest": "24.0.15",
